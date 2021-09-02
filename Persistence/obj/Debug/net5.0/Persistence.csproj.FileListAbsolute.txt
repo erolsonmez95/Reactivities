@@ -1,0 +1,15 @@
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb

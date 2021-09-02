@@ -1,0 +1,12 @@
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
