@@ -61,3 +61,9 @@
 /home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
 /home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/Humanizer.dll
 /home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/MediatR.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/mono_crash.21acb2c4bb.0.json
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/AutoMapper.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/mono_crash.21acb2c4bb.1.json
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
