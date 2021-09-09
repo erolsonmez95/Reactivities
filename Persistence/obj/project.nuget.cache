@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4EtXMfqp5nDNIQPBMSaJcf760dtCpTCjfTbVcLtaqo3AD3EwRetgMLohB8KMDwYZ65wfLWl4liadiwWfaflPXQ==",
+  "dgSpecHash": "EIE+4heBKcsK1ov8L3f+YKeM+kzy+Gbu6cvPNFkG3LB7HMiPkQkYZSds1r5BkGHSCzo8K+a+bLJyljOdaGDH7A==",
   "success": true,
   "projectFilePath": "/home/erolsonmez95/Documents/vscode/Reactivities/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.9/microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/5.0.9/microsoft.aspnetcore.cryptography.keyderivation.5.0.9.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/5.0.9/microsoft.aspnetcore.identity.entityframeworkcore.5.0.9.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.data.sqlite.core/5.0.9/microsoft.data.sqlite.core.5.0.9.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.entityframeworkcore/5.0.9/microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
@@ -18,6 +21,8 @@
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.dependencymodel/5.0.0/microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.extensions.identity.core/5.0.9/microsoft.extensions.identity.core.5.0.9.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.extensions.identity.stores/5.0.9/microsoft.extensions.identity.stores.5.0.9.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
