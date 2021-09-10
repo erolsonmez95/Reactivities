@@ -82,3 +82,6 @@
 /home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
 /home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/Infrastructure.dll
 /home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/Infrastructure.pdb
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/CloudinaryDotNet.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/Microsoft.Extensions.WebEncoders.dll
+/home/erolsonmez95/Documents/vscode/Reactivities/API/bin/Debug/net5.0/Newtonsoft.Json.dll

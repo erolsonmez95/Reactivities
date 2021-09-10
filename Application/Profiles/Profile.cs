@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using Domain;
+
 namespace Application.Activities.Profiles
 {
     public class Profile
@@ -8,6 +11,7 @@ namespace Application.Activities.Profiles
         public string Bio { get; set; }
 
         public string Image { get; set; }
+        public ICollection<Photo> Photos {get;set;}
 
 
         

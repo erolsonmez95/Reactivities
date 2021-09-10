@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "l/WW5sDV93mCw9MlBOX+nqNFT8QxI4jkLyikIcWAXhyptUHivJ6/B6r4HJKbJJYPTMfjKy6uw5B+nf96Q+4zWw==",
+  "dgSpecHash": "v4Af+bilKPYVXd0b0KVtvcI40nsFaYYUNALssIH4wYJ6osJIoi7L+9uXVKioPjREcpzZJVp7rgM7kyPHDWdYUA==",
   "success": true,
   "projectFilePath": "/home/erolsonmez95/Documents/vscode/Reactivities/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/erolsonmez95/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/cloudinarydotnet/1.15.2/cloudinarydotnet.1.15.2.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/fluentvalidation.aspnetcore/10.3.3/fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.3/fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
@@ -13,6 +14,9 @@
     "/home/erolsonmez95/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.9/microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/5.0.9/microsoft.aspnetcore.cryptography.keyderivation.5.0.9.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/5.0.9/microsoft.aspnetcore.identity.entityframeworkcore.5.0.9.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.data.sqlite.core/5.0.9/microsoft.data.sqlite.core.5.0.9.nupkg.sha512",
@@ -35,6 +39,8 @@
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.extensions.webencoders/5.0.3/microsoft.extensions.webencoders.5.0.3.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
@@ -43,7 +49,8 @@
     "/home/erolsonmez95/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/home/erolsonmez95/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+    "/home/erolsonmez95/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

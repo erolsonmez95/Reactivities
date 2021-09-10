@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+LSQrlYuAB1Vh0i9dc9fhmwHX+abijftM3QVeH0EdBxp7MM6Vuaa7Zi3aUW9bHD5jnijzoElwIjDk0ZYH+VxGQ==",
+  "dgSpecHash": "BYuQuK2xwcszJVdwPNZ92wOAWYMAlTdukdAtHC5+frNS2QVW1lRtS3R2xdJyUnyd2aSf/56RqcYEXp9ImBXK2A==",
   "success": true,
   "projectFilePath": "/home/erolsonmez95/Documents/vscode/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/home/erolsonmez95/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/cloudinarydotnet/1.15.2/cloudinarydotnet.1.15.2.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/fluentvalidation.aspnetcore/10.3.3/fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.3/fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
@@ -15,6 +16,9 @@
     "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.9/microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.9/microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/5.0.9/microsoft.aspnetcore.cryptography.keyderivation.5.0.9.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/5.0.9/microsoft.aspnetcore.identity.entityframeworkcore.5.0.9.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.data.sqlite.core/5.0.9/microsoft.data.sqlite.core.5.0.9.nupkg.sha512",
@@ -39,12 +43,14 @@
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/microsoft.extensions.webencoders/5.0.3/microsoft.extensions.webencoders.5.0.3.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.7.1/microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.identitymodel.logging/6.12.2/microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.identitymodel.tokens/6.12.2/microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
@@ -59,7 +65,8 @@
     "/home/erolsonmez95/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/home/erolsonmez95/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
-    "/home/erolsonmez95/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "/home/erolsonmez95/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/home/erolsonmez95/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
