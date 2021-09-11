@@ -18,6 +18,7 @@ import { useEffect } from 'react';
 import LoadingComponent from './LoadingComponent';
 import ModalContainer from '../common/modals/ModalContainer';
 import RegisterForm from '../../features/users/RegisterForm';
+import ProfilePage from '../../features/profiles/ProfilePage';
 
 function App() {
   const location = useLocation();
@@ -63,6 +64,7 @@ function App() {
                 <Route path='/activities/:id' component={ActivityDetails} />
                 <Route key={location.key} path={['/createActivity', '/manage/:id']} component={ActivityForm} />
                 <Route path='/errors' component={TestErrors} />
+                <Route path='/profiles/:username' component={ProfilePage} />
                 <Route path='/server-error' component={ServerError} />
                 <Route path='/login' component={LoginForm} />
                 <Route path='/register' component={RegisterForm} />
